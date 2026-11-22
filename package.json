@@ -1,0 +1,7 @@
+{
+  "name": "moonlit-gallery-heist",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A one-frame, keyboard-and-mouse gallery heist drawn on canvas 2D."
+}
